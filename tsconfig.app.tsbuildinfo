@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/constants/index.tsx","./src/components/button.tsx","./src/pages/day1.tsx","./src/pages/day2.tsx","./src/pages/day3.tsx","./src/pages/day4.tsx","./src/pages/day5.tsx","./src/pages/day6.tsx","./src/pages/day7.tsx","./src/pages/day8.tsx","./src/pages/day9.tsx","./src/pages/home.tsx"],"version":"5.6.2"}
