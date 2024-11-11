@@ -4,7 +4,7 @@ import Button from "../components/Button";
 const Home = () => {
   const navigate = useNavigate();
 
-  const COMPLETED_DAYS = 9;
+  const COMPLETED_DAYS = 10;
 
   const handleDayClick = (day: number) => {
     navigate(`/day${day}`);
